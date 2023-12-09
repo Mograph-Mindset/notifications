@@ -22,6 +22,18 @@
             "color": "#0057BE",
             "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
             "type": "inline"
+        },
+         {
+            "id": 3,
+            "title": "☕ Get Your Brew On",
+            "message": "Brew some coffee.",
+            "button": "Brew Now",
+            "url": "https://captioneer.lemonsqueezy.com/",
+            "date": "2023-12-09",
+            "expiration": "2023-12-25",
+            "color": "#0057BE",
+            "image": "https://lemonsqueezy.imgix.net/media/51519/a6dc9277-54c2-4d10-b999-69445f59a257.jpg?fit=clip&h=1000&ixlib=php-3.3.1&w=1000&s=cca9980ce362fa5ad7483411b157e681",
+            "type": "modal"
         }
     ],
     "lastUpdated": "2023-11-20"
