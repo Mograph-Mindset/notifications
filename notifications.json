@@ -1,41 +1,42 @@
 {
     "notifications": [{
             "id": 1,
-            "title": "🎉Update is available!",
-            "message": "Version 1.2 is now available. This update includes several performance improvements.",
-            "button": "Update Now",
-            "url": "http://axwt.com/",
+            "title": "🎉 Welcome to Captioneer!",
+            "message": "Version 1.2 is now available. Welcome to the public release of Captioneer.",
+            "button": "Go to Store",
+            "url": "http://captioneer.tv/",
             "date": "2023-11-20",
             "expiration": "2024-02-01",
             "ignoreVersion": "1.2",
-            "color": "#DE3D82",
+            "color": "#7047EB",
             "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
             "type": "modal"
         },
         {
             "id": 2,
-            "title": "🎁 Collect 'em all!",
-            "message": "Pika-Pika! Find a perfect MOGRT for your project! Use promo code ”CYBER_MOGRT” to Get a 25% discount for all MOGRT files in our store.",
-            "button": "Go Shopping",
-            "url": "https://motion.land/",
-            "date": "2023-11-18",
-            "expiration": "2024-02-01",
-            "color": "#0057BE",
-            "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
-            "type": "inline"
-        },
-         {
-            "id": 3,
-            "title": "☕ Brew some coffee.",
-            "message": "Wake up to the sweet smell of success.",
-            "button": "Brew Now",
-            "url": "https://motion.land/",
+            "title": "🤝 Promote & Earn",
+            "message": "Become a Captioneer affiliate today & earn up to $25 on each sale!",
+            "button": "Apply",
+            "url": "https://captioneer.lemonsqueezy.com/affiliates",
             "date": "2023-12-09",
             "expiration": "2024-02-01",
-            "color": "#6E4DF5",
-            "image": "https://lemonsqueezy.imgix.net/media/51519/a6dc9277-54c2-4d10-b999-69445f59a257.jpg?fit=clip&h=1000&ixlib=php-3.3.1&w=1000&s=cca9980ce362fa5ad7483411b157e681",
-            "type": "modal"
+            "color": "#fcff2e5",
+            "image": "",
+            "type": "inline"
+        },
+        {
+            "id": 3,
+            "title": "🔴 Tutorials",
+            "message": "In-depth videos going over every feature inside Captioneer. Craft captions like a pro!",
+            "button": "Watch Now",
+            "url": "https://www.youtube.com/@CaptioneerTV",
+            "date": "2023-11-18",
+            "expiration": "2024-02-01",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
+
     ],
-    "lastUpdated": "2024-01-17"
+    "lastUpdated": "2024-02-25"
 }
