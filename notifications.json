@@ -1,16 +1,16 @@
 {
-    "notifications": [{
+    "notifications": [
+        {
             "id": 1,
-            "title": "🎉 Welcome to Captioneer!",
-            "message": "Version 1.2 is now available. Welcome to the public release of Captioneer.",
-            "button": "Go to Store",
-            "url": "http://captioneer.tv/",
+            "title": "🔴 Tutorials",
+            "message": "YouTube videos for every feature inside Captioneer. Craft captions like a pro!",
+            "button": "Watch Now",
+            "url": "https://www.youtube.com/@CaptioneerTV",
             "date": "2024-03-13",
-            "expiration": "2024-04-01",
-            "ignoreVersion": "1.3",
+            "expiration": "2024-03-13",
             "color": "#7047EB",
-            "image": "https://drive.google.com/file/d/1TjgMJCQU8faVpKXn9rZSWgLwmF6Q4TEu/view?usp=sharing",
-            "type": "modal"
+            "image": "",
+            "type": "inline"
         },
         {
             "id": 2,
@@ -26,25 +26,13 @@
         },
         {
             "id": 3,
-            "title": "🔴 Tutorials",
-            "message": "YouTube videos for every feature inside Captioneer. Craft captions like a pro!",
-            "button": "Watch Now",
-            "url": "https://www.youtube.com/@CaptioneerTV",
-            "date": "2024-03-13",
-            "expiration": "2024-03-13",
-            "color": "#7047EB",
-            "image": "",
-            "type": "inline"
-        },
-        {
-            "id": 4,
             "title": "🎉 Welcome to Captioneer!",
             "message": "Version 1.3 is now available. Welcome to the public release of Captioneer.",
             "button": "Go to Store",
             "url": "http://captioneer.tv/",
             "date": "2024-03-13",
             "expiration": "2024-04-01",
-            "ignoreVersion": "1.3",
+            "ignoreVersion": "1.4",
             "color": "#7047EB",
             "image": "https://drive.google.com/thumbnail?sz=w1000&id=1TjgMJCQU8faVpKXn9rZSWgLwmF6Q4TEu",
             "type": "modal"
