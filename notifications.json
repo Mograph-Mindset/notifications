@@ -31,13 +31,26 @@
             "button": "Go to Store",
             "url": "http://captioneer.tv/",
             "date": "2024-03-20",
-            "expiration": "2024-04-15",
+            "expiration": "2024-05-15",
             "ignoreVersion": "1.3",
             "color": "#7047EB",
             "image": "https://drive.google.com/thumbnail?sz=w1000&id=1TjgMJCQU8faVpKXn9rZSWgLwmF6Q4TEu",
             "type": "modal"
+        },
+        {
+            "id": 4,
+            "title": "🎁 16X9 and 1X1 .mogrts now available!",
+            "message": "16X9 and 1X1 versions of all 10 .mogrts are now available for free download in the Captioneer store.",
+            "button": "Go to Store",
+            "url": "https://captioneer.lemonsqueezy.com/",
+            "date": "2024-04-23",
+            "expiration": "2024-05-15",
+            "ignoreVersion": "1.3",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
 
     ],
-    "lastUpdated": "2024-03-16"
+    "lastUpdated": "2024-04-23"
 }
