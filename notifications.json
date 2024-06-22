@@ -55,7 +55,7 @@
             "title": "🎉Update is available!",
             "message": "Version 1.2.18 is now available. This update includes several performance improvements.",
             "button": "Update",
-            "url": "app.lemonsqueezy.com/my-orders",
+            "url": "https://app.lemonsqueezy.com/my-orders",
             "date": "2024-06-21",
             "expiration": "2024-07-15",
             "ignoreVersion": "1.3",
