@@ -114,8 +114,21 @@
             "color": "#7047EB",
             "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/baa9f7b1-b31d-4d87-20c0-5695f53f2800/public",
             "type": "modal"
+        },
+        {
+            "id": 10,
+            "title": "🎁 Obviously! Subtitles now available!",
+            "message": "Get free Obviously Subtitle .mogrts in the Captioneer store.",
+            "button": "Go to Store",
+            "url": "https://captioneer.lemonsqueezy.com/",
+            "date": "2024-09-27",
+            "expiration": "2024-11-15",
+            "ignoreVersion": "1.4",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
 
     ],
-    "lastUpdated": "2024-09-16"
+    "lastUpdated": "2024-09-27"
 }
