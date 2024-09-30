@@ -127,8 +127,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 11,
+            "title": "💸 Last Day for 20% Off",
+            "message": "Final day for 20% off Lifetime & Subscription codes from aescripts. Sale ends Oct 1.",
+            "button": "Go to aescripts",
+            "url": "https://aescripts.com/captioneer/",
+            "date": "2024-09-30",
+            "expiration": "2024-10-02",
+            "ignoreVersion": "1.4",
+            "color": "#FFF720",
+            "image": "",
+            "type": "inline"
         }
 
     ],
-    "lastUpdated": "2024-09-27"
+    "lastUpdated": "2024-09-29"
 }
