@@ -140,8 +140,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 11,
+            "title": "🎁 Akira Subtitles now available!",
+            "message": "Get free Akira Subtitle .mogrts in the Captioneer store.",
+            "button": "Go to Store",
+            "url": "https://captioneer.lemonsqueezy.com/buy/a54127b4-adf9-4135-b8bb-e683efcabe0b",
+            "date": "2024-10-15",
+            "expiration": "2024-12-01",
+            "ignoreVersion": "1.4",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
 
     ],
-    "lastUpdated": "2024-09-29"
+    "lastUpdated": "2024-10-15"
 }
