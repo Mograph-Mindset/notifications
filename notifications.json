@@ -120,7 +120,8 @@
             "title": "🎁 Obviously! Subtitles now available!",
             "message": "Get free Obviously Subtitle .mogrts in the Captioneer store.",
             "button": "Go to Store",
-            "url": "https://captioneer.lemonsqueezy.com/",
+            "url": "https://captioneer.lemonsqueezy.com/buy/5a4b1f6f-7a77-4db6-ae67-7c6e41bf457e",
+            "aescripts": "https://captioneer.lemonsqueezy.com/buy/5a4b1f6f-7a77-4db6-ae67-7c6e41bf457e",
             "date": "2024-09-27",
             "expiration": "2024-11-15",
             "ignoreVersion": "1.4",
@@ -147,6 +148,7 @@
             "message": "Get free Akira Subtitle .mogrts in the Captioneer store.",
             "button": "Go to Store",
             "url": "https://captioneer.lemonsqueezy.com/buy/a54127b4-adf9-4135-b8bb-e683efcabe0b",
+            "aescripts": "https://captioneer.lemonsqueezy.com/buy/a54127b4-adf9-4135-b8bb-e683efcabe0b",
             "date": "2024-10-15",
             "expiration": "2024-12-01",
             "ignoreVersion": "1.4",
@@ -156,5 +158,5 @@
         }
 
     ],
-    "lastUpdated": "2024-10-15"
+    "lastUpdated": "2024-10-27"
 }
