@@ -169,8 +169,22 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 14,
+            "title": "🦃 Cyber Extravaganza 25% Off",
+            "message": "Get 25% off licenses with code 'CYBER'. Sale ends Dec 6.",
+            "button": "Buy Now",
+            "url": "https://captioneer.tv/",
+            "aescripts": "https://aescripts.com/captioneer/",
+            "date": "2024-11-18",
+            "expiration": "2024-12-07",
+            "ignoreVersion": "1.4",
+            "color": "#7047EB",
+            "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/1ff7ab88-e4c1-4928-3ab8-88b495ea5000/public",
+            "type": "modal"
         }
 
     ],
-    "lastUpdated": "2024-11-02"
+    "lastUpdated": "2024-11-17"
 }
