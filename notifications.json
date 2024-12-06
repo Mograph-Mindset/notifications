@@ -197,8 +197,22 @@
             "color": "#7047EB",
             "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/1ff7ab88-e4c1-4928-3ab8-88b495ea5000/public",
             "type": "modal"
+        },
+        {
+            "id": 16,
+            "title": "☠️ Last Chance for 25% off!",
+            "message": "Friday Dec 6 is the FINAL day for 25% off with code 'CYBER'.",
+            "button": "Get 25% Off",
+            "url": "https://captioneer.lemonsqueezy.com/buy/5d3d4e1e-0a7b-4918-bf2e-b0d11641f69f",
+            "aescripts": "https://aescripts.com/captioneer/",
+            "date": "2024-12-06",
+            "expiration": "2024-12-07",
+            "ignoreVersion": "1.4",
+            "color": "#7047EB",
+            "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/1ff7ab88-e4c1-4928-3ab8-88b495ea5000/public",
+            "type": "modal"
         }
 
     ],
-    "lastUpdated": "2024-12-01"
+    "lastUpdated": "2024-12-06"
 }
