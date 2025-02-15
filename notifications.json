@@ -253,8 +253,22 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+         {
+            "id": 20,
+            "title": "🎉 Update 1.4.0 is now available!",
+            "message": "NEW! Auto-install & background updates for all 10+ Captioneer MOGRTs.",
+            "button": "Update",
+            "url": "https://app.lemonsqueezy.com/my-orders/",
+            "aescripts": "https://aescripts.com/downloadable/customer/products/",
+            "date": "2025-2-14",
+            "expiration": "2025-04-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
 
     ],
-    "lastUpdated": "2025-1-28"
+    "lastUpdated": "2025-2-14"
 }
