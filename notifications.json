@@ -267,8 +267,22 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 21,
+            "title": "🔍 Fonts not appearing?",
+            "message": "If your caption fonts are not showing up, click here to sync.",
+            "button": "Sync Fonts",
+            "url": "https://docs.captioneer.com/setup/installation/fonts/",
+            "aescripts": "https://docs.captioneer.com/setup/installation/fonts/",
+            "date": "2025-3-18",
+            "expiration": "2025-05-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
 
     ],
-    "lastUpdated": "2025-2-14"
+    "lastUpdated": "2025-3-18"
 }
