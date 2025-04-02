@@ -253,7 +253,7 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
-        },
+         },
          {
             "id": 20,
             "title": "🎉 Update 1.4.0 is now available!",
@@ -281,8 +281,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 22,
+            "title": "🎉 Update 1.4.1 is now available!",
+            "message": "NEW! Translate captions directly in Premiere Pro 25.2",
+            "button": "Update",
+            "url": "https://app.lemonsqueezy.com/my-orders/",
+            "aescripts": "https://aescripts.com/downloadable/customer/products/",
+            "date": "2025-4-02",
+            "expiration": "2025-07-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
-
     ],
-    "lastUpdated": "2025-3-18"
+    "lastUpdated": "2025-4-02"
 }
