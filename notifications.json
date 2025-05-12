@@ -295,7 +295,35 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 23,
+            "title": "🎉 Update 1.5.0 is now available!",
+            "message": "NEW! Free MOGRTs by Mat Voyce",
+            "button": "Update",
+            "url": "https://app.lemonsqueezy.com/my-orders/",
+            "aescripts": "https://aescripts.com/downloadable/customer/products/",
+            "date": "2025-05-11",
+            "expiration": "2025-07-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
+        },
+        {
+            "id": 24,
+            "title": "☀️ Summer of Sales 25% Off",
+            "message": "Get 25% off Lifetime licenses from aescripts. Sale ends May 16.",
+            "button": "Buy Now",
+            "url": "https://aescripts.com/captioneer/",
+            "aescripts": "https://aescripts.com/captioneer/",
+            "date": "2025-05-11",
+            "expiration": "2025-05-16",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/aa1c3578-59e2-48f3-596d-354ec65ae500/public",
+            "type": "modal"
         }
     ],
-    "lastUpdated": "2025-4-02"
+    "lastUpdated": "2025-05-11"
 }
