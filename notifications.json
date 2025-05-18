@@ -336,7 +336,7 @@
             "ignoreVersion": "2.0",
             "color": "#7047EB",
             "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/aa1c3578-59e2-48f3-596d-354ec65ae500/public",
-            "type": "modal"
+            "type": "inline"
         }
     ],
     "lastUpdated": "2025-05-17"
