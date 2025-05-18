@@ -331,11 +331,11 @@
             "button": "Buy Now",
             "url": "https://aescripts.com/captioneer/",
             "aescripts": "https://aescripts.com/captioneer/",
-            "date": "2025-05-17",
+             "date": "2025-05-17",
             "expiration": "2025-05-19",
             "ignoreVersion": "2.0",
             "color": "#7047EB",
-            "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/aa1c3578-59e2-48f3-596d-354ec65ae500/public",
+            "image": "",
             "type": "inline"
         }
     ],
