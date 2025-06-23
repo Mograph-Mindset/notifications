@@ -337,7 +337,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 25,
+            "title": "🚀 50% Off!",
+            "message": "3 Days only get $50 discount from captioneer.com. Use code: LAUNCHDAY",
+            "button": "Buy Now",
+            "url": "https://captioneer.com/",
+            "aescripts": "https://captioneer.com/",
+             "date": "2025-06-23",
+            "expiration": "2025-06-26",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
     ],
-    "lastUpdated": "2025-05-17"
+    "lastUpdated": "2025-06-23"
 }
