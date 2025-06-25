@@ -344,7 +344,7 @@
             "message": "Unlock $50 discount from captioneer.com. 3 days only with code: LAUNCHDAY",
             "button": "Buy Now",
             "url": "https://captioneer.lemonsqueezy.com/checkout/buy/5d3d4e1e-0a7b-4918-bf2e-b0d11641f69f?checkout[discount_code]=LAUNCHDAY/",
-            "aescripts": "https://captioneer.com/",
+            "aescripts": "https://captioneer.lemonsqueezy.com/checkout/buy/5d3d4e1e-0a7b-4918-bf2e-b0d11641f69f?checkout[discount_code]=LAUNCHDAY/",
             "date": "2025-06-23",
             "expiration": "2025-06-26",
             "ignoreVersion": "2.0",
