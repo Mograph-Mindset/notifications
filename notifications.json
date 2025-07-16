@@ -355,7 +355,7 @@
         {
             "id": 27,
             "title": "🎉 Update 1.5.2 is now available!",
-            "message": "Unified activation framework & bug fixes",
+            "message": "Unified activation framework & bug fixes.",
             "button": "Update",
             "url": "https://app.lemonsqueezy.com/my-orders/",
             "aescripts": "https://aescripts.com/downloadable/customer/products/",
