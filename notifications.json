@@ -7,7 +7,8 @@
             "button": "Watch Now",
             "url": "https://www.youtube.com/@CaptioneerTV",
             "date": "2024-03-20",
-            "expiration": "2026-04-15",
+            "expiration": "2026-12-31",
+            "ignoreVersion": "3.0",
             "color": "#7047EB",
             "image": "",
             "type": "inline"
@@ -20,6 +21,7 @@
             "url": "https://captioneer.lemonsqueezy.com/affiliates",
             "date": "2024-03-20",
             "expiration": "2024-04-15",
+            "ignoreVersion": "1.3",
             "color": "#FCFF2E",
             "image": "",
             "type": "inline"
