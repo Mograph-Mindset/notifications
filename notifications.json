@@ -367,7 +367,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 28,
+            "title": "🎉 Update 1.5.3 is now available!",
+            "message": "Floating License bug fix.",
+            "button": "Update",
+            "url": "https://app.lemonsqueezy.com/my-orders/",
+            "aescripts": "https://aescripts.com/downloadable/customer/products/",
+            "date": "2025-08-11",
+            "expiration": "2025-12-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
     ],
-    "lastUpdated": "2025-07-15"
+    "lastUpdated": "2025-08-11"
 }
