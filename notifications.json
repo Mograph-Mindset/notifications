@@ -395,7 +395,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 30,
+            "title": "🎉 Introducing Auto Captions!",
+            "message": "Available in update 1.6.0.",
+            "button": "Watch Promo",
+            "url": "https://youtu.be/ov484sLKt7o",
+            "aescripts": "https://youtu.be/ov484sLKt7o",
+            "date": "2025-10-08",
+            "expiration": "2025-02-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/c0b08d87-c154-4f08-7350-a352f508d900/public",
+            "type": "modal"
         }
     ],
-    "lastUpdated": "2025-08-11"
+    "lastUpdated": "2025-10-07"
 }
