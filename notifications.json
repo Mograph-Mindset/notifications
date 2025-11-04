@@ -423,7 +423,21 @@
             "color": "#7047EB",
             "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/c0b08d87-c154-4f08-7350-a352f508d900/public",
             "type": "modal"
+        },
+        {
+            "id": 32,
+            "title": "🔴 Film Impact Tutorial",
+            "message": "How to use Film Impact transitions with Captioneer!",
+            "button": "Watch Now",
+            "url": "https://www.youtube.com/watch?v=MFHEcFJ860U",
+            "aescripts": "https://www.youtube.com/watch?v=MFHEcFJ860U",
+            "date": "2025-11-04",
+            "expiration": "2026-02-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
     ],
-    "lastUpdated": "2025-10-07"
+    "lastUpdated": "2025-11-04"
 }
