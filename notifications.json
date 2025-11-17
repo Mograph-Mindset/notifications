@@ -437,7 +437,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
-        }
+        },
+        {
+            "id": 33,
+            "title": "🛍️ 25% Off Black Friday Sale",
+            "message": "Get 25% off licenses with code 'CYBER'. Sale ends Dec 5.",
+            "button": "Buy Now",
+            "url": "https://captioneer.lemonsqueezy.com/buy/5d3d4e1e-0a7b-4918-bf2e-b0d11641f69f",
+            "aescripts": "https://aescripts.com/captioneer/",
+            "date": "2025-11-18",
+            "expiration": "2025-12-05",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/785048e0-47ff-463b-5116-442950345400/public",
+            "type": "modal"
+        },
     ],
-    "lastUpdated": "2025-11-04"
+    "lastUpdated": "2025-11-16"
 }
