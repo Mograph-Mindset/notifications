@@ -452,7 +452,7 @@
             "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/785048e0-47ff-463b-5116-442950345400/public",
             "type": "modal"
         },
-         {
+        {
             "id": 34,
             "title": "⏰ Final Sale!",
             "message": "Last chance for 25% off licenses with code 'CYBER'.",
@@ -465,7 +465,21 @@
             "color": "#7047EB",
             "image": "https://imagedelivery.net/qK19HTF5l4HRivWRpehYOw/785048e0-47ff-463b-5116-442950345400/public",
             "type": "modal"
+        },
+        {
+            "id": 35,
+            "title": "❄️ Winter Update",
+            "message": "All MOGRTs now have safe zones. Enable or disable the 'Fit in Title Safe' option. Happy holidays! 🎄",
+            "button": "Buy Now",
+            "url": "https://captioneer.lemonsqueezy.com/buy/5d3d4e1e-0a7b-4918-bf2e-b0d11641f69f",
+            "aescripts": "https://aescripts.com/captioneer/",
+            "date": "2025-12-22",
+            "expiration": "2026-02-01",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
     ],
-    "lastUpdated": "2025-11-27"
+    "lastUpdated": "2025-12-22"
 }
