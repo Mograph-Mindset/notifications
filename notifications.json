@@ -507,7 +507,21 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 38,
+            "title": "⏰ 24 Hrs Left.",
+            "message": "Last chance to get Lifetime license before price increase tomorrow, Jan 22nd.",
+            "button": "Buy Now",
+           "url": "https://captioneer.lemonsqueezy.com/buy/5d3d4e1e-0a7b-4918-bf2e-b0d11641f69f",
+            "aescripts": "https://aescripts.com/captioneer/",
+            "date": "2026-01-21",
+            "expiration": "2026-01-22",
+            "ignoreVersion": "2.0",
+            "color": "#7047EB",
+            "image": "",
+            "type": "inline"
         }
     ],
-    "lastUpdated": "2026-01-16"
+    "lastUpdated": "2026-01-21"
 }
