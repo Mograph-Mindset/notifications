@@ -521,7 +521,35 @@
             "color": "#7047EB",
             "image": "",
             "type": "inline"
+        },
+        {
+            "id": 39,
+            "url": "https:\/\/www.youtube.com\/watch?v=DtLrgCm-f6Y",
+            "date": "2026-01-27",
+            "type": "inline",
+            "color": "#7047EB",
+            "image": "",
+            "title": "🚀 After Effects 1.0",
+            "button": "Watch Video",
+            "message": "Captioneer for After Effects is out now!",
+            "aescripts": "https:\/\/www.youtube.com\/watch?v=DtLrgCm-f6Y",
+            "expiration": "2026-04-01",
+            "ignoreVersion": "2.0"
+        },
+        {
+            "id": 40,
+            "url": "https:\/\/www.youtube.com\/watch?v=zIjQmt5rccU",
+            "date": "2026-02-09",
+            "type": "inline",
+            "color": "#7047EB",
+            "image": "",
+            "title": "🔴 Custom Captions Tutorial",
+            "button": "Watch Now",
+            "message": "How to create perfect typing MOGRT from Neuronfx!",
+            "aescripts": "https:\/\/www.youtube.com\/watch?v=zIjQmt5rccU",
+            "expiration": "2026-07-01",
+            "ignoreVersion": "2.0"
         }
     ],
-    "lastUpdated": "2026-01-21"
+    "lastUpdated": "2026-02-09"
 }
